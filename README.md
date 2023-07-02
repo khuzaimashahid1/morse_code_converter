@@ -1,6 +1,6 @@
 # Morse Code Converter
 
-This is a C++ program that allows you to encode English text into Morse code and decode Morse code back to English. It also provides functionality for searching, replacing, inserting, deleting, and displaying elements in a Morse code tree.
+This is a C++ program that allows you to encode English text into Morse code and decode Morse code back to English. It also provides functionality for searching, replacing, inserting, deleting, and displaying elements in a Morse code tree. The morse code is decoded and encoded using the functionality of a binary tree
 
 ## Instructions
 
